@@ -1,5 +1,4 @@
 # Explorador de Datos Climaticos
-
 Este proyecto es una aplicacion web interactiva desarrollada con Python. Su objetivo es permitir la carga, analisis y visualizacion de datos historicos de temperatura de manera eficiente a traves de una interfaz grafica funcional.
 
 El sistema fue desarrollado como proyecto final para la asignatura Introduccion a la Computacion en la Universidad Central de Venezuela (UCV).
