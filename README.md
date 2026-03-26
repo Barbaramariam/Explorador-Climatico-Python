@@ -41,6 +41,3 @@ Para ejecutar este proyecto en un entorno local:
 * `archivoTemperaturas.csv`: Dataset de ejemplo utilizado para validar las funciones del sistema.
 * `requirements.txt`: Archivo de configuracion con las librerias y versiones requeridas.
 
----
-**Autora:** Barbara Fernandez  
-**Institucion:** Universidad Central de Venezuela (UCV)
